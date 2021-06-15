@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/fylodatastoragecomponent-eSlK_gsXa)
 - Live Site URL: [live site URL](https://fylo-data-storage-component-two-xi.vercel.app/)
 
 ## My process
@@ -49,6 +49,6 @@ Users should be able to:
        width: 0;
        
        border-left: 2rem solid transparent;
-       border-top: 1.5rem solid;
+       border-top: 2rem solid;
      }
   ```
