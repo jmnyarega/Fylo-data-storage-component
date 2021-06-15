@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./design/screenshots)
-![Mobile](./design/screenshots)
+![Desktop](./design/screenshots/desktop.png)
+![Mobile](./design/screenshots/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://your-solution-url.com)
+- Live Site URL: [live site URL](https://fylo-data-storage-component-two-xi.vercel.app/)
 
 ## My process
 
@@ -43,4 +43,12 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-
+  - creating a triangle using css border
+  ```css
+     .elem {
+       width: 0;
+       
+       border-left: 2rem solid transparent;
+       border-top: 1.5rem solid;
+     }
+  ```
